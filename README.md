@@ -140,7 +140,7 @@ For all the problem files, we are declaring the rooms as objects in the followin
 And the adjacent room connection and placement of hero, monsters, traps, swords in Initialization - (:init)
 And goal in (:goal)
 ### Problem1:
-![Problem 1](../../Pb1.png "Problem 1")
+![Problem 1](Problem_file_images/Pb1.png "Problem 1")
 #### Problem1 Input:
 Problem file name – pb1.pddl
 ```
