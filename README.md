@@ -167,7 +167,7 @@ Problem file name – pb1.pddl
 ; cost = 3 (unit cost)
 
 ### Problem2 - 
-![Problem 2](../../Pb2.png "Problem 2")
+![Problem 2](Problem_file_images/Pb2.png "Problem 2")
 ```
 (:init
     ;…(all the connected rooms info)
@@ -192,7 +192,7 @@ Problem file name – pb1.pddl
 ; cost = 5 (unit cost)
 
 ### Problem3 –
-![Problem 3](../../Pb3.png "Problem 3")
+![Problem 3](Problem_file_images/Pb3.png "Problem 3")
 ```
 (:init
     ;…(all the connected rooms info)
