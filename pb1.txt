@@ -1,0 +1,4 @@
+(move room1_1 room1_2)
+(move room1_2 room2_2)
+(move room2_2 room2_3)
+; cost = 3 (unit cost)

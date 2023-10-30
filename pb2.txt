@@ -1,0 +1,6 @@
+(move room1_2 room1_3)
+(move room1_3 room2_3)
+(pickup_sword room2_3)
+(move-armed-with-sword room2_3 room2_2)
+(move-armed-with-sword room2_2 room2_1)
+; cost = 5 (unit cost)
